@@ -17,9 +17,11 @@
     <a href="https://learn.microsoft.com/es-es/training/paths/web-development-101/">Desarrollo Web Para Principiantes</a>
     <p>Conozca los conceptos básicos del desarrollo web, incluidos los lenguajes y herramientas de programación, y la accesibilidad web.</p>
     <h2>Objetivos de aprendizaje</h2>
-    <ul> Explorar el concepto de programación.</ul>
-    <ul>Saber qué son los lenguajes de programación de alto y bajo nivel.</ul>
-    <ul>Conocer los elementos básicos de un programa.</ul>
-    <ul>Obtener información sobre el software y las herramientas que utilizan los desarrolladores profesionales.</ul>   
+    <ul>
+    <li> Explorar el concepto de programación.</li>
+    <li>Saber qué son los lenguajes de programación de alto y bajo nivel.</li>
+    <li>Conocer los elementos básicos de un programa.</li>
+    <li>Obtener información sobre el software y las herramientas que utilizan los desarrolladores profesionales.</li>
+    </ul>   
 </body>
 </html>
